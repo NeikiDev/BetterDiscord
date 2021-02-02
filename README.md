@@ -1,8 +1,8 @@
 # BetterDiscord
- BetterDiscod Theme
+BetterDiscod Theme
 
- Better Discord Theme by Neiki (Import)
+Better Discord Theme by Neiki (Import)
 
-By NeikiDev
+By NeikiDev | Version: 1.0.2 
 
- Download Version soon!
+Download Version soon!
