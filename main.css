@@ -1,0 +1,32 @@
+/**
+ * @name         Better Discord Theme
+ * @description  Custom Better Discord Theme by Neiki
+ * @author       NeikiDev
+ * @version      1.0
+ * @invite       d4jXrgVEw7
+ * @authorId     402272736665272320
+ */
+
+
+ /* @import ""; */
+
+
+
+
+
+:root {
+  --roundness: 50px; 
+ --main-color: #007dbd;  
+  --hover-color: #03679b; 
+  --home-color: #eee; 
+  --home-size: 24px; 
+  --shadow: rgba(0,0,0,.4); 
+ --background-image: url(); 
+  --background-blur: 0px; 
+  --background-darkness: 0.65; 
+  
+  --popup-background: url(); 																			
+	--popout-blur: 0px; 											
+	
+}
+
